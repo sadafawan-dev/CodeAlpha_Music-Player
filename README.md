@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 A responsive and stylish **Music Player** built using **HTML, CSS, and JavaScript**.  
-It features full playback controls, a playlist, song information display, and smooth progress and volume control — all in a modern dark UI.
+It features full playback controls, a playlist, song information display, and smooth progress and volume control all in a modern dark UI.
 
 ---
 
